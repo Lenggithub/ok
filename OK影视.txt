@@ -1,6 +1,6 @@
 {
   "sites": [
-    {"key": "cmjh", "name": "🔞19q.cc", "type": 1, "api": "https://19q.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "categories": ["✈️TG频道@stymei1"]},
+    {"key": "cmjh", "name": "🔞19q.cc", "type": 1, "api": "https://19q.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "categories": ["✈️TG频道@"]},
     
     {"key": "xzy", "name": "🔞Xiaojizy", "type": 1, "api": "https://api.xiaojizy.live/provide/vod", "searchable": 1, "quickSearch": 1},
     {"key": "xingba", "name": "🔞Xingba111", "type": 1, "api": "https://xingba111.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},    
